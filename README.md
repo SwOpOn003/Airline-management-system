@@ -9,6 +9,7 @@
 🔗2.Passanger management:It will show Passenger profiles and history.
 Check-in and boarding management.
 Baggage handling and tracking.
+
 🔗3.Reservation and Ticketing:
 Online booking and reservation system.
 Seat availability and selection.
