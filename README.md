@@ -1,7 +1,7 @@
 # Airline-management-system
 🔗Features:
                           Hellow sir 😊
-                        Welcome to my airline management system.This system will provides the following featres:
+                        Welcome to my airline management system.This system will provides you the following features:
 
 🔗1.Flight Scheduling:
       It will show you the current flight shedule.
@@ -18,4 +18,4 @@ Ticket price management.
 
 
 🔗4.employee management:
-This featuure is for counting all employ, daily login and logout,salary maintaining.
+This feature is for counting all employee, daily login and logout,salary maintaining.
