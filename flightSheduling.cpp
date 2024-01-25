@@ -27,13 +27,16 @@ int main() {
     stack<Flight> flightSchedule;
 
 
-    Flight flight1 = {"F123", "Bangladesh", "America", "08:00Am", "08:00am"};
+    Flight flight1 = {"F123", "Bangladesh", "Delhi", "08:00Am", "11:00Am"};
     Flight flight2 = {"F234", "Dubai", "Bangladesh", "12:00Am", "10:00pm"};
-    Flight flight3 = {"F345", "Soudi Arabia", "Bangladesh", "10:00Am", "12:00Am"};
+    Flight flight3 = {"F345", "Soudi Arabia", "Bangladesh", "10:00Am", "02:00pm"};
+    Flight flight4 = {"F344", "Bangladesh", "Nepal", "10:00Am", "01:00pm"};
+
 
     flightSchedule.push(flight1);
     flightSchedule.push(flight2);
     flightSchedule.push(flight3);
+    flightSchedule.push(flight4);
 
 
     cout << "Current Flight Schedule:" << endl;
