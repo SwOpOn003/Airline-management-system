@@ -17,5 +17,4 @@ Ticket price management.
 
 
 
-🔗4.employee management:(It will handle by Head office)
-This feature is for counting all employee, daily login and logout,salary maintaining.
+
